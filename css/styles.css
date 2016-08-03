@@ -1,12 +1,18 @@
 .entry1 {
   color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .entry2 {
   color: green;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .entry3 {
   color: blue;
+  margin-top: 90px;
+  margin-bottom: 190px;
 }
 .about {
   background-color: #dd4433
